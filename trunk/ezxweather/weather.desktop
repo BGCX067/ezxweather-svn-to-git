@@ -1,0 +1,11 @@
+[Desktop Entry]
+BigIcon = iconB.png
+Comment = Written by dnxh.cn
+Domain = T
+Exec = weather
+Icon = iconS.png
+Name = Weather
+Shared = 1
+Type = Application
+Vendor = www.dnxh.cn
+Version = 1.0

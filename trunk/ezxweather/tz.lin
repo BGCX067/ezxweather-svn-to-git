@@ -1,0 +1,13 @@
+﻿#!/bin/bash
+
+export LD_LIBRARY_PATH=/usr/lib/ezx/lib
+export QTDIR=/usr/lib/ezx
+#export EZX_RES_FONT_PATH=$QTDIR/lib/fonts
+export TZ=GMT-00:00
+
+myfile=`basename $0`
+mypath=`echo $0 | sed -e 's/'$myfile'//g'`
+
+cd $mypath
+	./weather
+ 

@@ -1,0 +1,13 @@
+[Files]
+0=main.cpp
+1=weather.h
+2=weather.cpp
+
+[ProjectSetting]
+AppType=app
+Libs=ezxappsdk,ipp-jp,ezxopenwindow,ipp-miscGen,ezxappbase,qte-mt,ezxjpeg,ezxpm,ezxmystuff_fmsdk,ezxam,dmnative,ezxmystuff-play,ezx_mp_utility,ezximagebase,ezxsound,ezxphone,ezxdrmsp,ezx_mp_playerengine,ezxdrmcipher,ezx-cmseccert,ezxtapi,ezxssl,ezxdrmsecuretime,cipci,ezxsendmail,ezxsort,ezxshare,ezxnapi,ezxqtnapi,ezxcallsetupengine
+Target=
+Version=
+RunPath=/mmc/mmca1/.system/QTDownLoad/ezxweather/
+NoDebugInfo=1
+
